@@ -1,3 +1,5 @@
+# Extract office file (docx, xlsx, pptx ..) metadata by hscho
+
 import os
 import docx
 import csv
