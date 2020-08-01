@@ -1,3 +1,5 @@
+#Extract Image Metadata by hscho
+
 import os, folium, csv
 from PIL import Image
 from PIL.ExifTags import TAGS, GPSTAGS
